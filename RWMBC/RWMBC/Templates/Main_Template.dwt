@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/site.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<meta name="description" content="The home of the Rock Wallaby Mountain Bike Club" />
+<meta name="keywords" content="mountain bike, mtb, mountain bike skills, mtb skills, mountain biking Nowendoc, mountain biking skills, mountain biking, mountain bike, mtb, mountain bike sessions, mtb sessions, mountain biking sessions,  women's courses, RWMBC" />
+<meta name="author" content="RWMBC" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="1 month" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('../images/nav_home_over.jpg','../images/nav_news_over.jpg','../images/nav_about_over.jpg','../images/nav_upcoming_over.jpg','../images/nav_gallery_over.jpg','../images/nav_contact_over.jpg')">
+
+<div id="wrapper">
+	<div id="wrapper1">
+	  <div id="header"></div>
+            <div id="navigation">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','../images/nav_home_over.jpg',1)"><img src="../images/nav_home_normal.jpg" alt="Return to home page" name="Home" width="157" height="30" border="0" id="Home" /></a></td>
+                  <td><a href="../news.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Latest News','','../images/nav_news_over.jpg',1)"><img src="../images/nav_news_normal.jpg" alt="Link to latest news page" name="Latest News" width="133" height="30" border="0" id="Latest News" /></a></td>
+                  <td><a href="../about_us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About RWMB','','../images/nav_about_over.jpg',1)"><img src="../images/nav_about_normal.jpg" alt="Link to the about RWMBC" name="About RWMB" width="198" height="30" border="0" id="About RWMB" /></a></td>
+                  <td><a href="../events.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Events','','../images/nav_upcoming_over.jpg',1)"><img src="../images/nav_upcoming_normal.jpg" alt="Link to upcoming events page" name="Events" width="203" height="30" border="0" id="Events" /></a></td>
+                  <td><a href="../gallery.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Gallery','','../images/nav_gallery_over.jpg',1)"><img src="../images/nav_gallery_normal.jpg" alt="Link to gallery page" name="Gallery" width="105" height="30" border="0" id="Gallery" /></a></td>
+                  <td><a href="../contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact','','../images/nav_contact_over.jpg',1)"><img src="../images/nav_contact_normal.jpg" alt="Link to contact page" name="Contact" width="208" height="30" border="0" id="Contact" /></a></td>
+                </tr>
+              </table>
+            </div>
+	</div>
+<div id="content"><!-- TemplateBeginEditable name="Page_Content" -->
+<h1><img src="../images/shots/bike01.jpg" alt="Rock Wallaby ountain Bike Club" width="400" height="260" class="picfloatright" />Title</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ligula purus, tempus at convallis placerat, semper ac enim. Nam quis quam vel lorem ultrices pellentesque ut vitae mi. Nullam augue metus, pulvinar id blandit ac, dapibus ac turpis. Fusce nunc quam, mollis sed lobortis in, eleifend eget leo. Maecenas metus lectus, dignissim at lobortis in, laoreet eu sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque neque risus, malesuada sit amet semper ac, eleifend non odio. Sed ac risus ac sem fermentum facilisis. Curabitur sapien dui, lobortis sit amet imperdiet eget, accumsan eget lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam sed luctus enim. Nullam magna mauris, suscipit vel luctus vitae, aliquet eu eros. Proin odio lacus, tempus sed tincidunt id, aliquet quis libero. Maecenas sit amet lacus urna, et vehicula mi. Nullam sit amet dui urna.</p>
+<p>Duis vitae quam turpis. Sed at semper tellus. Suspendisse et lorem sem, vel feugiat orci. Nulla ornare odio in est porttitor varius. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris suscipit aliquet purus non interdum. Ut et velit leo, at consequat urna. Nunc quis metus dui, quis facilisis ligula. Pellentesque egestas, dui volutpat euismod tristique, purus neque sagittis neque, ac auctor mi augue at augue. Nunc mollis, dolor vitae dictum faucibus, augue nisi rutrum enim, id facilisis metus erat id orci. Maecenas suscipit felis at tortor malesuada et auctor turpis lobortis. Suspendisse dui tortor, vestibulum vel porttitor vitae, lobortis ac felis. Etiam sollicitudin, diam in tincidunt egestas, nisi eros gravida lectus, et hendrerit elit eros non mauris. Etiam iaculis dictum est, sed tempor enim dictum ac.</p>
+<p>Cras ac erat dui, et laoreet sem. Cras rhoncus, lacus id blandit ultricies, quam mi pretium nibh, eu scelerisque dolor leo quis ante. Praesent condimentum risus mauris. Vestibulum quis quam mauris. Nullam nulla massa, blandit consectetur commodo non, tincidunt quis urna. Mauris felis orci, cursus nec imperdiet vitae, lacinia quis ligula. Pellentesque consequat elementum sagittis. Quisque nec enim id urna viverra tincidunt vel placerat dolor. Ut dolor diam, accumsan in lacinia ultricies, condimentum nec diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam lacinia, risus nec pulvinar placerat, velit neque commodo nibh, feugiat rutrum lorem orci sed diam. Morbi id augue vel dolor adipiscing porta sit amet tempus felis.</p>
+<p>Suspendisse consequat blandit lectus sit amet posuere. Suspendisse nec leo elit, non tempor turpis. Suspendisse dictum elit sit amet elit viverra viverra. Donec ac dolor in lorem porta fringilla. Suspendisse tempus massa vitae nunc fringilla non molestie sem dictum. Sed suscipit mollis lacus, sit amet condimentum felis ultrices sit amet. In scelerisque turpis ac massa porttitor sed accumsan elit iaculis. Mauris laoreet, quam ut facilisis sollicitudin, lacus est euismod ante, eu pulvinar nisi ligula sed mauris. Mauris sit amet lacus id leo tempor dapibus. Nullam vulputate tristique euismod. Vivamus vel lectus eu ante congue aliquam. Sed vitae mi consequat tellus tempus facilisis commodo nec tellus. Fusce euismod fringilla leo vel ultrices. Proin lacinia porttitor lorem, eu facilisis odio blandit quis.</p>
+<p>Donec quis eros quis mi vestibulum venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce accumsan, sem et lacinia hendrerit, ipsum felis facilisis magna, iaculis vehicula ante felis ac mauris. Nam bibendum sagittis neque nec dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla dictum vulputate est, ut ornare nisl placerat non. Proin convallis, sem bibendum varius facilisis, arcu turpis congue nibh, sed varius risus tellus id est.</p>
+<!-- TemplateEndEditable --></div>
+  
+	<div id="footer"><!-- #BeginLibraryItem "/Library/Footer.lbi" -->
+<div id="copyright">
+  <p>&copy; Rock Wallaby Mountain Bike Club 2012 –  Website updated by RWMBC - Last Updated March 2012</p>
+  <p>Home - Contact Us - Gallery</p>
+</div>
+<!-- #EndLibraryItem --></div>
+</div>
+
+</body>
+</html>
