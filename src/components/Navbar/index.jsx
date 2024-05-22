@@ -10,6 +10,7 @@ import { CiHome } from "react-icons/ci";
 import { SiTransmission } from "react-icons/si";
 import { IoIosContact } from "react-icons/io";
 import { MdOutlineRoundaboutLeft } from "react-icons/md";
+import Link from "next/link";
 
 
 
@@ -57,11 +58,11 @@ export default function Navbar() {
             />
             {/* Logo */}
             <h1 className="flex sm:px-5">
-              <a href="index.html"
+              <Link href="/"
                 className="w-10 h-10">
                  
                 <Image src="/images/a2z.svg" alt="A2Z Logo" width={30} height={30} 
-              /></a> 
+              /></Link> 
             </h1>
             
           </section>

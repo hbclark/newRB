@@ -2,4 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer utilities{
+    .clip-joiningFee {
+        clip-path:polygon(0 0, 90% 0, 100% 100%, 0 100%)
+    }
+    .initialLetter{
+        initial-letter: 2;
+    }
+}
 
